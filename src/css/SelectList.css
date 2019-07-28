@@ -1,0 +1,17 @@
+.listAndUpdateHolder{
+    display: flex
+}
+
+.listHolder{
+    width: 150px;
+    border:1px solid #666;
+    padding-bottom: 15px
+}
+
+.title{
+    color: #666
+}
+
+.selectInput{
+    max-width: 70%;
+}

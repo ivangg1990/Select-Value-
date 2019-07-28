@@ -1,0 +1,24 @@
+.quantityHolder{
+    width:150px;
+    border:1px solid #666;
+    padding-bottom:15px;
+    margin-left: 50px
+}
+
+.title{
+    color:#666666;
+     text-align:center
+}
+
+.formHolder{
+    max-width: 70%;
+}
+
+.inputHolder{
+    max-width:80px;
+    margin-bottom:3px
+}
+
+.submit-btn{
+    width: 80px;
+}
